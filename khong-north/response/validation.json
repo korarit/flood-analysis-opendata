@@ -1,0 +1,9 @@
+{
+  "basin": "khong-north",
+  "total_station_pairs": 105,
+  "observed_pairs_count": 4,
+  "estimated_pairs_count": 101,
+  "total_flood_events_detected": 10027,
+  "detection_rule": "continuous_rise_4h_with_plateau_midpoint",
+  "timestamp": "2026-09-01T16:54:19.965762"
+}

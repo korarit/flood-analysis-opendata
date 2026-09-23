@@ -1,0 +1,1442 @@
+[
+  {
+    "station": {
+      "id": 8305,
+      "tele_station_name": {
+        "th": "สะพานบ้านเจดีย์งาม",
+        "en": ""
+      },
+      "tele_station_lat": 19.186546,
+      "tele_station_long": 99.9439,
+      "tele_station_oldcode": "G23069-PYO004",
+      "tele_station_type": "waterlevel",
+      "ground_level": 385.53,
+      "qmax": null,
+      "min_bank": 387.73,
+      "river_name": "แม่น้ำอิงตอนกลางส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ดอกคำใต้",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สว่างอารมณ์",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560511",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1606,
+      "tele_station_name": {
+        "th": "ท้ายกว๊านพะเยา",
+        "en": ""
+      },
+      "tele_station_lat": 19.15985,
+      "tele_station_long": 99.91412,
+      "tele_station_oldcode": "G23069-PYO001",
+      "tele_station_type": "waterlevel",
+      "ground_level": 387.24,
+      "qmax": null,
+      "min_bank": 392.528,
+      "river_name": "แม่น้ำอิงตอนบน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เวียง",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560101",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1683690,
+      "tele_station_name": {
+        "th": "สะพานข้ามน้ำอิง (I.17)",
+        "en": ""
+      },
+      "tele_station_lat": 19.165922,
+      "tele_station_long": 99.9343,
+      "tele_station_oldcode": "G23069-PYO005",
+      "tele_station_type": "waterlevel",
+      "ground_level": 385.71,
+      "qmax": null,
+      "min_bank": 389.77,
+      "river_name": "แม่น้ำอิงตอนกลางส่วนที่ 1",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ท่าวังทอง",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560113",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1683692,
+      "tele_station_name": {
+        "th": "สะพานคลองแม่กาหลง (ม.พะเยา)",
+        "en": ""
+      },
+      "tele_station_lat": 19.0328,
+      "tele_station_long": 99.92907,
+      "tele_station_oldcode": "G23069-PYO007",
+      "tele_station_type": "waterlevel",
+      "ground_level": 434,
+      "qmax": null,
+      "min_bank": 436.225,
+      "river_name": "แม่น้ำอิงตอนกลางส่วนที่ 1",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่กา",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560110",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1683691,
+      "tele_station_name": {
+        "th": "สะพานคลองแม่ต๋ำ",
+        "en": ""
+      },
+      "tele_station_lat": 19.09763,
+      "tele_station_long": 99.91642,
+      "tele_station_oldcode": "G23069-PYO006",
+      "tele_station_type": "waterlevel",
+      "ground_level": 396.602,
+      "qmax": null,
+      "min_bank": 402.116,
+      "river_name": "แม่น้ำอิงตอนกลางส่วนที่ 1",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่กา",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560110",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 8304,
+      "tele_station_name": {
+        "th": "สะพานบ้านต๋ำ",
+        "en": ""
+      },
+      "tele_station_lat": 19.21819,
+      "tele_station_long": 99.862686,
+      "tele_station_oldcode": "G23069-PYO003",
+      "tele_station_type": "waterlevel",
+      "ground_level": 389.83,
+      "qmax": null,
+      "min_bank": 392.63,
+      "river_name": "แม่น้ำอิงตอนบน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บ้านต๊ำ",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560106",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268762,
+      "tele_station_name": {
+        "th": "อ่างเก็บน้ำวิทยาลัยเกษตรและเทคโนโลยีพะเยา",
+        "en": ""
+      },
+      "tele_station_lat": 19.09644,
+      "tele_station_long": 99.82603,
+      "tele_station_oldcode": "G23069-RES004",
+      "tele_station_type": "waterlevel",
+      "ground_level": 446.8,
+      "qmax": null,
+      "min_bank": null,
+      "river_name": "แม่น้ำอิงตอนบน",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่นาเรือ",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560104",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268767,
+      "tele_station_name": {
+        "th": "อ่างเก็บน้ำห้วยตุบขอบ",
+        "en": ""
+      },
+      "tele_station_lat": 19.00824,
+      "tele_station_long": 99.87471,
+      "tele_station_oldcode": "G23069-RES009",
+      "tele_station_type": "waterlevel",
+      "ground_level": 548.4,
+      "qmax": null,
+      "min_bank": null,
+      "river_name": "แม่น้ำอิงตอนกลางส่วนที่ 1",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่กา",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560110",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268763,
+      "tele_station_name": {
+        "th": "อ่างเก็บน้ำห้วยถ้ำ",
+        "en": ""
+      },
+      "tele_station_lat": 19.05976,
+      "tele_station_long": 99.8426,
+      "tele_station_oldcode": "G23069-RES005",
+      "tele_station_type": "waterlevel",
+      "ground_level": 467.9,
+      "qmax": null,
+      "min_bank": null,
+      "river_name": "แม่น้ำอิงตอนบน",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่นาเรือ",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560104",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268766,
+      "tele_station_name": {
+        "th": "อ่างเก็บน้ำห้วยนาปอย",
+        "en": ""
+      },
+      "tele_station_lat": 19.01922,
+      "tele_station_long": 99.86757,
+      "tele_station_oldcode": "G23069-RES008",
+      "tele_station_type": "waterlevel",
+      "ground_level": 562.4,
+      "qmax": null,
+      "min_bank": null,
+      "river_name": "แม่น้ำอิงตอนกลางส่วนที่ 1",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่นาเรือ",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560104",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268699,
+      "tele_station_name": {
+        "th": "อ่างเก็บน้ำห้วยม่วง (ห้วยแฮ้)",
+        "en": ""
+      },
+      "tele_station_lat": 19.13814,
+      "tele_station_long": 99.80512,
+      "tele_station_oldcode": "G23069-RES003",
+      "tele_station_type": "waterlevel",
+      "ground_level": 467.8,
+      "qmax": null,
+      "min_bank": null,
+      "river_name": "แม่น้ำอิงตอนบน",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บ้านตุ่น",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560105",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268764,
+      "tele_station_name": {
+        "th": "อ่างเก็บน้ำห้วยโซ้",
+        "en": ""
+      },
+      "tele_station_lat": 19.04885,
+      "tele_station_long": 99.85983,
+      "tele_station_oldcode": "G23069-RES006",
+      "tele_station_type": "waterlevel",
+      "ground_level": 502.6,
+      "qmax": null,
+      "min_bank": null,
+      "river_name": "แม่น้ำอิงตอนบน",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองพะเยา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่นาเรือ",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560104",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5213,
+      "tele_station_name": {
+        "th": "คลองแม่พุง",
+        "en": ""
+      },
+      "tele_station_lat": 19.56656,
+      "tele_station_long": 99.98423,
+      "tele_station_oldcode": "G23069-TBW023",
+      "tele_station_type": "waterlevel",
+      "ground_level": 379.367,
+      "qmax": null,
+      "min_bank": 384.427,
+      "river_name": "แม่น้ำพุง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ป่าแดด",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ป่าแงะ",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570602",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5214,
+      "tele_station_name": {
+        "th": "สะพานอิงอุดม",
+        "en": ""
+      },
+      "tele_station_lat": 20.19635,
+      "tele_station_long": 100.44173,
+      "tele_station_oldcode": "G23069-TBW024",
+      "tele_station_type": "waterlevel",
+      "ground_level": 333.7,
+      "qmax": null,
+      "min_bank": 349.28,
+      "river_name": "แม่น้ำอิงตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เชียงของ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ศรีดอนชัย",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570308",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268783,
+      "tele_station_name": {
+        "th": "อ่างเก็บน้ำม่วงชุม",
+        "en": ""
+      },
+      "tele_station_lat": 20.10053,
+      "tele_station_long": 100.40951,
+      "tele_station_oldcode": "G23069-RES025",
+      "tele_station_type": "waterlevel",
+      "ground_level": 388.7,
+      "qmax": null,
+      "min_bank": null,
+      "river_name": "แม่น้ำอิงตอนล่าง",
+      "sponsor_by": ""
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เชียงของ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ครึ่ง",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570303",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1627,
+      "tele_station_name": {
+        "th": "เชียงแสน",
+        "en": ""
+      },
+      "tele_station_lat": 20.2197,
+      "tele_station_long": 100.12121,
+      "tele_station_oldcode": "G23069-CHR005",
+      "tele_station_type": "waterlevel",
+      "ground_level": 355.219,
+      "qmax": null,
+      "min_bank": 364.753,
+      "river_name": "น้ำแม่กกตอนล่างส่วนที่ 3",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เชียงแสน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โยนก",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570806",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1622,
+      "tele_station_name": {
+        "th": "เทิง",
+        "en": ""
+      },
+      "tele_station_lat": 19.68822,
+      "tele_station_long": 100.18758,
+      "tele_station_oldcode": "G23069-CHR002",
+      "tele_station_type": "waterlevel",
+      "ground_level": 356.016,
+      "qmax": null,
+      "min_bank": 366.993,
+      "river_name": "แม่น้ำอิงตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เทิง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เวียง",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570401",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5212,
+      "tele_station_name": {
+        "th": "สะพานแม่ฟ้าหลวง",
+        "en": ""
+      },
+      "tele_station_lat": 19.92195,
+      "tele_station_long": 99.81826,
+      "tele_station_oldcode": "G23069-TBW022",
+      "tele_station_type": "waterlevel",
+      "ground_level": 388.479,
+      "qmax": null,
+      "min_bank": 392.258,
+      "river_name": "น้ำแม่กกตอนล่างส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองเชียงราย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "รอบเวียง",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570102",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1617,
+      "tele_station_name": {
+        "th": "เมืองเชียงราย",
+        "en": ""
+      },
+      "tele_station_lat": 19.82637,
+      "tele_station_long": 99.77892,
+      "tele_station_oldcode": "G23069-CHR001",
+      "tele_station_type": "waterlevel",
+      "ground_level": 399.881,
+      "qmax": null,
+      "min_bank": 405.556,
+      "river_name": "น้ำแม่ลาวส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองเชียงราย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ป่าอ้อดอนชัย",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570116",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1625,
+      "tele_station_name": {
+        "th": "แม่จัน",
+        "en": ""
+      },
+      "tele_station_lat": 20.15754,
+      "tele_station_long": 99.85966,
+      "tele_station_oldcode": "G23069-CHR003",
+      "tele_station_type": "waterlevel",
+      "ground_level": 408.003,
+      "qmax": null,
+      "min_bank": 412.008,
+      "river_name": "น้ำแม่จัน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่จัน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่จัน",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570701",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1630,
+      "tele_station_name": {
+        "th": "แม่สรวย",
+        "en": ""
+      },
+      "tele_station_lat": 19.65265,
+      "tele_station_long": 99.5379,
+      "tele_station_oldcode": "G23069-CHR004",
+      "tele_station_type": "waterlevel",
+      "ground_level": 450.309,
+      "qmax": null,
+      "min_bank": 453.954,
+      "river_name": "น้ำแม่ลาวส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่สรวย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่สรวย",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "571001",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 18193322,
+      "tele_station_name": {
+        "th": "โรงสูบน้ำแรงต่ำแม่ข่าย (แม่สาย)",
+        "en": ""
+      },
+      "tele_station_lat": 20.444576,
+      "tele_station_long": 99.87177,
+      "tele_station_oldcode": "G23069-MYA005",
+      "tele_station_type": "waterlevel",
+      "ground_level": 393.48,
+      "qmax": null,
+      "min_bank": 401,
+      "river_name": "แม่น้ำโขงตอนบนส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่สาย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เวียงพางคำ",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570906",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1502,
+      "tele_station_name": {
+        "th": "ฝาง",
+        "en": ""
+      },
+      "tele_station_lat": 19.85606,
+      "tele_station_long": 99.19549,
+      "tele_station_oldcode": "G23069-CHM007",
+      "tele_station_type": "waterlevel",
+      "ground_level": 506.838,
+      "qmax": null,
+      "min_bank": 510.505,
+      "river_name": "น้ำแม่ฝาง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ฝาง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่สูน",
+        "en": ""
+      },
+      "province_code": "50",
+      "province_name": {
+        "th": "เชียงใหม่",
+        "en": ""
+      },
+      "geo_code": "500905",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 1504,
+      "tele_station_name": {
+        "th": "แม่อาย",
+        "en": ""
+      },
+      "tele_station_lat": 20.06092,
+      "tele_station_long": 99.36204,
+      "tele_station_oldcode": "G23069-CHM003",
+      "tele_station_type": "waterlevel",
+      "ground_level": 439.91,
+      "qmax": null,
+      "min_bank": 449.753,
+      "river_name": "น้ำแม่กกตอนล่างส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "สถาบันสารสนเทศทรัพยากรน้ำ (องค์การมหาชน)",
+        "en": "Hydro-Informatics Institute (Public Organization)"
+      },
+      "agency_shortname": {
+        "th": "สสน.",
+        "en": "HII"
+      },
+      "agency_code": "G23069"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่อาย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ท่าตอน",
+        "en": ""
+      },
+      "province_code": "50",
+      "province_name": {
+        "th": "เชียงใหม่",
+        "en": ""
+      },
+      "geo_code": "501005",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  }
+]

@@ -1,0 +1,602 @@
+[
+  {
+    "station": {
+      "id": 4337,
+      "tele_station_name": {
+        "th": "บ้านเจดีย์งาม",
+        "en": ""
+      },
+      "tele_station_lat": 19.16588,
+      "tele_station_long": 99.934341,
+      "tele_station_oldcode": "G07003-I.17",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 174.89999389648438,
+      "min_bank": 389.77,
+      "river_name": "แม่น้ำอิงตอนกลางส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ดอกคำใต้",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ดอกคำใต้",
+        "en": ""
+      },
+      "province_code": "56",
+      "province_name": {
+        "th": "พะเยา",
+        "en": ""
+      },
+      "geo_code": "560501",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4342,
+      "tele_station_name": {
+        "th": "บ้านน้ำอิง",
+        "en": ""
+      },
+      "tele_station_lat": 19.833191,
+      "tele_station_long": 100.200943,
+      "tele_station_oldcode": "G07003-I.14",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 298.6000061035156,
+      "min_bank": 358.22998,
+      "river_name": "แม่น้ำอิงตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ขุนตาล",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ต้า",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "571401",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268752,
+      "tele_station_name": {
+        "th": "บ้านกกโท้ง",
+        "en": ""
+      },
+      "tele_station_lat": 19.920521,
+      "tele_station_long": 99.846169,
+      "tele_station_oldcode": "G07003-G.2A",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 615,
+      "min_bank": 392.5,
+      "river_name": "น้ำแม่กกตอนล่างส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองเชียงราย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "รอบเวียง",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570102",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4344,
+      "tele_station_name": {
+        "th": "บ้านหัวสะพาน",
+        "en": ""
+      },
+      "tele_station_lat": 20.15753,
+      "tele_station_long": 99.859596,
+      "tele_station_oldcode": "G07003-Kh.89",
+      "tele_station_type": "waterlevel",
+      "ground_level": 406.375,
+      "qmax": 66,
+      "min_bank": 408.59003,
+      "river_name": "น้ำแม่จัน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่จัน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ป่าซาง",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570704",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4345,
+      "tele_station_name": {
+        "th": "บ้านแม่คำหลักเจ็ด",
+        "en": ""
+      },
+      "tele_station_lat": 20.218361,
+      "tele_station_long": 99.856987,
+      "tele_station_oldcode": "G07003-Kh.72",
+      "tele_station_type": "waterlevel",
+      "ground_level": 393.38,
+      "qmax": 170.5,
+      "min_bank": 398.4,
+      "river_name": "น้ำแม่จัน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่จัน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ศรีค้ำ",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "570711",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 14756734,
+      "tele_station_name": {
+        "th": "บ้านต้นยาง",
+        "en": ""
+      },
+      "tele_station_lat": 19.793711,
+      "tele_station_long": 99.74968,
+      "tele_station_oldcode": "G07003-G.8A",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 189,
+      "min_bank": 405.9,
+      "river_name": "น้ำแม่ลาวส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่ลาว",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บัวสลี",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "571603",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4340,
+      "tele_station_name": {
+        "th": "บ้านกระเหรี่ยงทุ่งพร้าว",
+        "en": ""
+      },
+      "tele_station_lat": 19.745991,
+      "tele_station_long": 99.500763,
+      "tele_station_oldcode": "G07003-G.9",
+      "tele_station_type": "waterlevel",
+      "ground_level": 514.996,
+      "qmax": 134.89999389648438,
+      "min_bank": 518.16,
+      "river_name": "น้ำแม่สรวย",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่สรวย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "วาวี",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "571006",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4339,
+      "tele_station_name": {
+        "th": "บ้านดอนสลี",
+        "en": ""
+      },
+      "tele_station_lat": 19.622379,
+      "tele_station_long": 99.476936,
+      "tele_station_oldcode": "G07003-G.11",
+      "tele_station_type": "waterlevel",
+      "ground_level": 460.975,
+      "qmax": 385.8999938964844,
+      "min_bank": 467.33,
+      "river_name": "น้ำแม่ลาวส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่สรวย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ป่าแดด",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "571002",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3622,
+      "tele_station_name": {
+        "th": "บ้านโป่งปูเฟือง",
+        "en": ""
+      },
+      "tele_station_lat": 19.652571,
+      "tele_station_long": 99.538017,
+      "tele_station_oldcode": "G07003-G.10",
+      "tele_station_type": "waterlevel",
+      "ground_level": 432.24,
+      "qmax": 215.17999267578125,
+      "min_bank": 436.97,
+      "river_name": "น้ำแม่ลาวส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่สรวย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แม่สรวย",
+        "en": ""
+      },
+      "province_code": "57",
+      "province_name": {
+        "th": "เชียงราย",
+        "en": ""
+      },
+      "geo_code": "571001",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3052174,
+      "tele_station_name": {
+        "th": "บ้านใหม่ริมฝาง",
+        "en": ""
+      },
+      "tele_station_lat": 19.908739,
+      "tele_station_long": 99.219887,
+      "tele_station_oldcode": "G07003-G.12",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 101.9000015258789,
+      "min_bank": 464.48,
+      "river_name": "น้ำแม่ฝาง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ฝาง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เวียง",
+        "en": ""
+      },
+      "province_code": "50",
+      "province_name": {
+        "th": "เชียงใหม่",
+        "en": ""
+      },
+      "geo_code": "500901",
+      "rid_code": "1",
+      "tmd_code": "3"
+    },
+    "basin": {
+      "id": 2,
+      "basin_code": 2,
+      "basin_name": {
+        "th": "ลุ่มน้ำโขงเหนือ",
+        "en": "North Mekong River Basin"
+      }
+    }
+  }
+]
