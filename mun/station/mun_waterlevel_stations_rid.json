@@ -1,0 +1,2402 @@
+[
+  {
+    "station": {
+      "id": 3736,
+      "tele_station_name": {
+        "th": "บ้านท่าเยี่ยม",
+        "en": ""
+      },
+      "tele_station_lat": 14.63599,
+      "tele_station_long": 101.884697,
+      "tele_station_oldcode": "G07003-M.180",
+      "tele_station_type": "waterlevel",
+      "ground_level": 219.32,
+      "qmax": 50,
+      "min_bank": 224.7,
+      "river_name": "ลำพระเพลิง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ปักธงชัย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บ่อปลาทอง",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "301420",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 8306,
+      "tele_station_name": {
+        "th": "บ้านขนงพระเหนือ",
+        "en": ""
+      },
+      "tele_station_lat": 14.60611,
+      "tele_station_long": 101.472778,
+      "tele_station_oldcode": "G07003-M.199",
+      "tele_station_type": "waterlevel",
+      "ground_level": 328.56,
+      "qmax": 190,
+      "min_bank": 333.8,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ปากช่อง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ขนงพระ",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "302107",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7285,
+      "tele_station_name": {
+        "th": "บ้านคลองหินลับ",
+        "en": ""
+      },
+      "tele_station_lat": 14.72852,
+      "tele_station_long": 101.564293,
+      "tele_station_oldcode": "G07003-M.183B",
+      "tele_station_type": "waterlevel",
+      "ground_level": 295,
+      "qmax": 96,
+      "min_bank": 300.9,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ปากช่อง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "วังไทร",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "302111",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3663,
+      "tele_station_name": {
+        "th": "บ้านท่ามะปรางค์",
+        "en": ""
+      },
+      "tele_station_lat": 14.51204,
+      "tele_station_long": 101.380348,
+      "tele_station_oldcode": "G07003-M.43A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 371.83,
+      "qmax": 112.0999984741211,
+      "min_bank": 375.2,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ปากช่อง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หมูสี",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "302105",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3660,
+      "tele_station_name": {
+        "th": "บ้านวังตะเคียนทอง",
+        "en": ""
+      },
+      "tele_station_lat": 14.49406,
+      "tele_station_long": 101.684914,
+      "tele_station_oldcode": "G07003-M.145",
+      "tele_station_type": "waterlevel",
+      "ground_level": 385.48,
+      "qmax": 150,
+      "min_bank": 390.4,
+      "river_name": "ลำพระเพลิง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ปากช่อง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "วังกะทะ",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "302104",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3740,
+      "tele_station_name": {
+        "th": "สำนักเทคโนโลยีชีวภัณฑ์สัตว์",
+        "en": ""
+      },
+      "tele_station_lat": 14.69785,
+      "tele_station_long": 101.415154,
+      "tele_station_oldcode": "G07003-M.89",
+      "tele_station_type": "waterlevel",
+      "ground_level": 291.37,
+      "qmax": 125,
+      "min_bank": 297.4,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ปากช่อง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ปากช่อง",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "302101",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3792,
+      "tele_station_name": {
+        "th": "บ้านซึม",
+        "en": ""
+      },
+      "tele_station_lat": 15.21996,
+      "tele_station_long": 102.428299,
+      "tele_station_oldcode": "G07003-M.184",
+      "tele_station_type": "waterlevel",
+      "ground_level": 149.6,
+      "qmax": 126,
+      "min_bank": 155.3,
+      "river_name": "ลำน้ำมูลตอนบนส่วนที่ 5",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "พิมาย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สัมฤทธิ์",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "301502",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7604,
+      "tele_station_name": {
+        "th": "บ้านสัมฤทธิ์",
+        "en": ""
+      },
+      "tele_station_lat": 15.20926,
+      "tele_station_long": 102.392952,
+      "tele_station_oldcode": "G07003-M.195",
+      "tele_station_type": "waterlevel",
+      "ground_level": 150.8,
+      "qmax": 320,
+      "min_bank": 158.1,
+      "river_name": "ลำน้ำมูลตอนบนส่วนที่ 5",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "พิมาย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สัมฤทธิ์",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "301502",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3662,
+      "tele_station_name": {
+        "th": "บ้านโนนสาวเอ้",
+        "en": ""
+      },
+      "tele_station_lat": 14.50134,
+      "tele_station_long": 101.768478,
+      "tele_station_oldcode": "G07003-M.171",
+      "tele_station_type": "waterlevel",
+      "ground_level": 272.15,
+      "qmax": 587,
+      "min_bank": 277,
+      "river_name": "ลำพระเพลิง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "วังน้ำเขียว",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "วังหมี",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "302502",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3755,
+      "tele_station_name": {
+        "th": "บ้านลาดบัวขาว",
+        "en": ""
+      },
+      "tele_station_lat": 14.85019,
+      "tele_station_long": 101.616791,
+      "tele_station_oldcode": "G07003-M.177",
+      "tele_station_type": "waterlevel",
+      "ground_level": 237.58,
+      "qmax": 105,
+      "min_bank": 243.3,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "สีคิ้ว",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ลาดบัวขาว",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "302004",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7296,
+      "tele_station_name": {
+        "th": "บ้านโนนค่า",
+        "en": ""
+      },
+      "tele_station_lat": 14.93225,
+      "tele_station_long": 101.867882,
+      "tele_station_oldcode": "G07003-M.192",
+      "tele_station_type": "waterlevel",
+      "ground_level": 199.93,
+      "qmax": 35,
+      "min_bank": 203.90001,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "สูงเนิน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บุ่งขี้เหล็ก",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "301804",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3767,
+      "tele_station_name": {
+        "th": "บ้านด่านกะตา",
+        "en": ""
+      },
+      "tele_station_lat": 14.96803,
+      "tele_station_long": 102.237831,
+      "tele_station_oldcode": "G07003-M.2A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 159.45,
+      "qmax": 232,
+      "min_bank": 167.7,
+      "river_name": "ลำน้ำมูลตอนบนส่วนที่ 3",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองยาง",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "303205",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3768,
+      "tele_station_name": {
+        "th": "ตำบลในเมือง",
+        "en": ""
+      },
+      "tele_station_lat": 14.98457,
+      "tele_station_long": 102.092941,
+      "tele_station_oldcode": "G07003-M.164",
+      "tele_station_type": "waterlevel",
+      "ground_level": 174.46,
+      "qmax": 32,
+      "min_bank": 177.6,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองนครราชสีมา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บ้านเกาะ",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "300112",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5796,
+      "tele_station_name": {
+        "th": "บ้านโคกกรวด",
+        "en": ""
+      },
+      "tele_station_lat": 14.93281,
+      "tele_station_long": 101.951889,
+      "tele_station_oldcode": "G07003-M.191",
+      "tele_station_type": "waterlevel",
+      "ground_level": 191.92,
+      "qmax": 42,
+      "min_bank": 195.3,
+      "river_name": "ลำตะคอง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองนครราชสีมา",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โคกกรวด",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "300117",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3742,
+      "tele_station_name": {
+        "th": "บ้านโนนสะอาด",
+        "en": ""
+      },
+      "tele_station_lat": 14.74504,
+      "tele_station_long": 102.211777,
+      "tele_station_oldcode": "G07003-M.173",
+      "tele_station_type": "waterlevel",
+      "ground_level": 175.54,
+      "qmax": 312,
+      "min_bank": 182.40001,
+      "river_name": "ลำน้ำมูลตอนบนส่วนที่ 3",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "โชคชัย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ท่าเยี่ยม",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "300707",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7286,
+      "tele_station_name": {
+        "th": "บ้านบัว",
+        "en": ""
+      },
+      "tele_station_lat": 15.18159,
+      "tele_station_long": 102.242737,
+      "tele_station_oldcode": "G07003-M.188A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 158.88,
+      "qmax": 70,
+      "min_bank": 162.59999,
+      "river_name": "ลำเชิงไกร",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "โนนสูง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โนนสูง",
+        "en": ""
+      },
+      "province_code": "30",
+      "province_name": {
+        "th": "นครราชสีมา",
+        "en": ""
+      },
+      "geo_code": "301001",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3761,
+      "tele_station_name": {
+        "th": "บ้านละลูน",
+        "en": ""
+      },
+      "tele_station_lat": 14.87545,
+      "tele_station_long": 103.378799,
+      "tele_station_oldcode": "G07003-M.26A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 127.76,
+      "qmax": 120,
+      "min_bank": 136.1,
+      "river_name": "ลำชี",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "กระสัง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองเต็ง",
+        "en": ""
+      },
+      "province_code": "31",
+      "province_name": {
+        "th": "บุรีรัมย์",
+        "en": ""
+      },
+      "geo_code": "310305",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3815,
+      "tele_station_name": {
+        "th": "บ้านวังปลัด",
+        "en": ""
+      },
+      "tele_station_lat": 15.43527,
+      "tele_station_long": 103.012627,
+      "tele_station_oldcode": "G07003-M.104",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 710,
+      "min_bank": 137.8,
+      "river_name": "ลำน้ำมูลส่วนที่ 2/2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "คูเมือง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บ้านแพ",
+        "en": ""
+      },
+      "province_code": "31",
+      "province_name": {
+        "th": "บุรีรัมย์",
+        "en": ""
+      },
+      "geo_code": "310203",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7605,
+      "tele_station_name": {
+        "th": "บ้านโนนสมบูรณ์",
+        "en": ""
+      },
+      "tele_station_lat": 15.51345,
+      "tele_station_long": 102.843826,
+      "tele_station_oldcode": "G07003-M.174",
+      "tele_station_type": "waterlevel",
+      "ground_level": 132.94,
+      "qmax": 339,
+      "min_bank": 140.7,
+      "river_name": "ลำสะแทดส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "บ้านใหม่ไชยพจน์",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กู่สวนแตง",
+        "en": ""
+      },
+      "province_code": "31",
+      "province_name": {
+        "th": "บุรีรัมย์",
+        "en": ""
+      },
+      "geo_code": "311904",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7287,
+      "tele_station_name": {
+        "th": "บ้านหินโคนเก่า",
+        "en": ""
+      },
+      "tele_station_lat": 15.02688,
+      "tele_station_long": 102.805687,
+      "tele_station_oldcode": "G07003-M.185A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 149.91,
+      "qmax": 467.5,
+      "min_bank": 158.84999,
+      "river_name": "ลำปลายมาศ",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ลำปลายมาศ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หินโคน",
+        "en": ""
+      },
+      "province_code": "31",
+      "province_name": {
+        "th": "บุรีรัมย์",
+        "en": ""
+      },
+      "geo_code": "311013",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3856,
+      "tele_station_name": {
+        "th": "บ้านนิคม",
+        "en": ""
+      },
+      "tele_station_lat": 15.80624,
+      "tele_station_long": 104.32795,
+      "tele_station_oldcode": "G07003-M.157",
+      "tele_station_type": "waterlevel",
+      "ground_level": 123.51,
+      "qmax": 500,
+      "min_bank": 129.5,
+      "river_name": "ห้วยโพง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ป่าติ้ว",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กระจาย",
+        "en": ""
+      },
+      "province_code": "35",
+      "province_name": {
+        "th": "ยโสธร",
+        "en": ""
+      },
+      "geo_code": "350502",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3862,
+      "tele_station_name": {
+        "th": "บ้านเชียงเพ็ง",
+        "en": ""
+      },
+      "tele_station_lat": 15.84008,
+      "tele_station_long": 104.455704,
+      "tele_station_oldcode": "G07003-M.32",
+      "tele_station_type": "waterlevel",
+      "ground_level": 117.5,
+      "qmax": 675,
+      "min_bank": 128.5,
+      "river_name": "ลำเซบายส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ป่าติ้ว",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เชียงเพ็ง",
+        "en": ""
+      },
+      "province_code": "35",
+      "province_name": {
+        "th": "ยโสธร",
+        "en": ""
+      },
+      "geo_code": "350504",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7288,
+      "tele_station_name": {
+        "th": "บ้านดอนยาง",
+        "en": ""
+      },
+      "tele_station_lat": 15.57186,
+      "tele_station_long": 103.819847,
+      "tele_station_oldcode": "G07003-M.95A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 115.75,
+      "qmax": 140.3000030517578,
+      "min_bank": 123.11,
+      "river_name": "ลำเสียวใหญ่ส่วนที่ 3",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "สุวรรณภูมิ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สระคู",
+        "en": ""
+      },
+      "province_code": "45",
+      "province_name": {
+        "th": "ร้อยเอ็ด",
+        "en": ""
+      },
+      "geo_code": "451101",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3737,
+      "tele_station_name": {
+        "th": "บ้านวังชมภู",
+        "en": ""
+      },
+      "tele_station_lat": 14.64329,
+      "tele_station_long": 104.6595,
+      "tele_station_oldcode": "G07003-M.66",
+      "tele_station_type": "waterlevel",
+      "ground_level": 141.46,
+      "qmax": 560,
+      "min_bank": 148.9,
+      "river_name": "ห้วยขยุงส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "กันทรลักษ์",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "น้ำอ้อม",
+        "en": ""
+      },
+      "province_code": "33",
+      "province_name": {
+        "th": "ศรีสะเกษ",
+        "en": ""
+      },
+      "geo_code": "330406",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3781,
+      "tele_station_name": {
+        "th": "บ้านสีถาน",
+        "en": ""
+      },
+      "tele_station_lat": 15.13208,
+      "tele_station_long": 104.488403,
+      "tele_station_oldcode": "G07003-M.182",
+      "tele_station_type": "waterlevel",
+      "ground_level": 106.26,
+      "qmax": 1570,
+      "min_bank": 117.1,
+      "river_name": "ลำน้ำมูลส่วนที่ 3/2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "กันทรารมย์",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองบัว",
+        "en": ""
+      },
+      "province_code": "33",
+      "province_name": {
+        "th": "ศรีสะเกษ",
+        "en": ""
+      },
+      "geo_code": "330312",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3806,
+      "tele_station_name": {
+        "th": "บ้านเมืองคง",
+        "en": ""
+      },
+      "tele_station_lat": 15.33969,
+      "tele_station_long": 104.15403,
+      "tele_station_oldcode": "G07003-M.5",
+      "tele_station_type": "waterlevel",
+      "ground_level": 108.8,
+      "qmax": 1675,
+      "min_bank": 120.75,
+      "river_name": "ลำน้ำมูลส่วนที่ 3/1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ราษีไศล",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เมืองคง",
+        "en": ""
+      },
+      "province_code": "33",
+      "province_name": {
+        "th": "ศรีสะเกษ",
+        "en": ""
+      },
+      "geo_code": "330901",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3773,
+      "tele_station_name": {
+        "th": "บ้านเขวา",
+        "en": ""
+      },
+      "tele_station_lat": 15.01052,
+      "tele_station_long": 104.128448,
+      "tele_station_oldcode": "G07003-M.190",
+      "tele_station_type": "waterlevel",
+      "ground_level": 120.75,
+      "qmax": 219,
+      "min_bank": 127.299995,
+      "river_name": "ห้วยสำราญ",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "อุทุมพรพิสัย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ทุ่งไชย",
+        "en": ""
+      },
+      "province_code": "33",
+      "province_name": {
+        "th": "ศรีสะเกษ",
+        "en": ""
+      },
+      "geo_code": "331004",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3779,
+      "tele_station_name": {
+        "th": "ชุมชนสะพานขาว",
+        "en": ""
+      },
+      "tele_station_lat": 15.11808,
+      "tele_station_long": 104.318642,
+      "tele_station_oldcode": "G07003-M.9",
+      "tele_station_type": "waterlevel",
+      "ground_level": 109.07,
+      "qmax": 200,
+      "min_bank": 118,
+      "river_name": "ห้วยสำราญ",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองศรีสะเกษ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หญ้าปล้อง",
+        "en": ""
+      },
+      "province_code": "33",
+      "province_name": {
+        "th": "ศรีสะเกษ",
+        "en": ""
+      },
+      "geo_code": "330116",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3771,
+      "tele_station_name": {
+        "th": "บ้านโนนสีไคล",
+        "en": ""
+      },
+      "tele_station_lat": 15.00636,
+      "tele_station_long": 104.633453,
+      "tele_station_oldcode": "G07003-M.176",
+      "tele_station_type": "waterlevel",
+      "ground_level": 110.29,
+      "qmax": 494,
+      "min_bank": 122.2,
+      "river_name": "ห้วยขยุงส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "โนนคูณ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บก",
+        "en": ""
+      },
+      "province_code": "33",
+      "province_name": {
+        "th": "ศรีสะเกษ",
+        "en": ""
+      },
+      "geo_code": "331302",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3782,
+      "tele_station_name": {
+        "th": "บ้านหลุมดิน",
+        "en": ""
+      },
+      "tele_station_lat": 15.14119,
+      "tele_station_long": 103.429359,
+      "tele_station_oldcode": "G07003-M.159",
+      "tele_station_type": "waterlevel",
+      "ground_level": 120.78,
+      "qmax": 256,
+      "min_bank": 129.1,
+      "river_name": "ลำชี",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "จอมพระ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เมืองลีง",
+        "en": ""
+      },
+      "province_code": "32",
+      "province_name": {
+        "th": "สุรินทร์",
+        "en": ""
+      },
+      "geo_code": "320402",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3802,
+      "tele_station_name": {
+        "th": "บ้านสตึก",
+        "en": ""
+      },
+      "tele_station_lat": 15.30003,
+      "tele_station_long": 103.292282,
+      "tele_station_oldcode": "G07003-M.6A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 120.92,
+      "qmax": 1240,
+      "min_bank": 131,
+      "river_name": "ลำน้ำมูลส่วนที่ 2/4",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ชุมพลบุรี",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กระเบื้อง",
+        "en": ""
+      },
+      "province_code": "32",
+      "province_name": {
+        "th": "สุรินทร์",
+        "en": ""
+      },
+      "geo_code": "320208",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3805,
+      "tele_station_name": {
+        "th": "บ้านพงสวาย",
+        "en": ""
+      },
+      "tele_station_lat": 15.32958,
+      "tele_station_long": 103.68261,
+      "tele_station_oldcode": "G07003-M.4",
+      "tele_station_type": "waterlevel",
+      "ground_level": 115.66,
+      "qmax": 1300,
+      "min_bank": 125.2,
+      "river_name": "ลำน้ำมูลส่วนที่ 2/5",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ท่าตูม",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ท่าตูม",
+        "en": ""
+      },
+      "province_code": "32",
+      "province_name": {
+        "th": "สุรินทร์",
+        "en": ""
+      },
+      "geo_code": "320301",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3774,
+      "tele_station_name": {
+        "th": "บ้านห้วยทับทัน",
+        "en": ""
+      },
+      "tele_station_lat": 15.04821,
+      "tele_station_long": 104.020973,
+      "tele_station_oldcode": "G07003-M.42",
+      "tele_station_type": "waterlevel",
+      "ground_level": 117.65,
+      "qmax": 151,
+      "min_bank": 127.200005,
+      "river_name": "ห้วยทับทัน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "สำโรงทาบ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หมื่นศรี",
+        "en": ""
+      },
+      "province_code": "32",
+      "province_name": {
+        "th": "สุรินทร์",
+        "en": ""
+      },
+      "geo_code": "321207",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3756,
+      "tele_station_name": {
+        "th": "ศูนย์วิจัยและพัฒนาประมงน้ำจืดสุรินทร์",
+        "en": ""
+      },
+      "tele_station_lat": 14.85738,
+      "tele_station_long": 103.476936,
+      "tele_station_oldcode": "G07003-M.187",
+      "tele_station_type": "waterlevel",
+      "ground_level": 136.6,
+      "qmax": 53,
+      "min_bank": 140.40001,
+      "river_name": "ลำชี",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองสุรินทร์",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "นอกเมือง",
+        "en": ""
+      },
+      "province_code": "32",
+      "province_name": {
+        "th": "สุรินทร์",
+        "en": ""
+      },
+      "geo_code": "320111",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3822,
+      "tele_station_name": {
+        "th": "บ้านท่าบอแบง",
+        "en": ""
+      },
+      "tele_station_lat": 15.50421,
+      "tele_station_long": 104.966202,
+      "tele_station_oldcode": "G07003-M.69",
+      "tele_station_type": "waterlevel",
+      "ground_level": 108.45,
+      "qmax": 330,
+      "min_bank": 115.7,
+      "river_name": "ลำเซบก",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ตระการพืชผล",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ขามเปี้ย",
+        "en": ""
+      },
+      "province_code": "34",
+      "province_name": {
+        "th": "อุบลราชธานี",
+        "en": ""
+      },
+      "geo_code": "341105",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 10069,
+      "tele_station_name": {
+        "th": "ห้วยบอน สถานีสูบน้ำ หน่วยบริการน้ำยืน",
+        "en": ""
+      },
+      "tele_station_lat": 14.47884,
+      "tele_station_long": 104.992882,
+      "tele_station_oldcode": "G07003-M.210",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": null,
+      "min_bank": 175.7,
+      "river_name": "ลำโดมใหญ่",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "น้ำยืน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สีวิเชียร",
+        "en": ""
+      },
+      "province_code": "34",
+      "province_name": {
+        "th": "อุบลราชธานี",
+        "en": ""
+      },
+      "geo_code": "340907",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3797,
+      "tele_station_name": {
+        "th": "บ้านโพธิ์ตาก",
+        "en": ""
+      },
+      "tele_station_lat": 15.24992,
+      "tele_station_long": 105.239243,
+      "tele_station_oldcode": "G07003-M.11B",
+      "tele_station_type": "waterlevel",
+      "ground_level": 103.22,
+      "qmax": 5180,
+      "min_bank": 112,
+      "river_name": "ลำน้ำมูลตอนล่างส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "พิบูลมังสาหาร",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โพธิ์ศรี",
+        "en": ""
+      },
+      "province_code": "34",
+      "province_name": {
+        "th": "อุบลราชธานี",
+        "en": ""
+      },
+      "geo_code": "341910",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3794,
+      "tele_station_name": {
+        "th": "สะพานเสรีประชาธิปไตย",
+        "en": ""
+      },
+      "tele_station_lat": 15.22263,
+      "tele_station_long": 104.859131,
+      "tele_station_oldcode": "G07003-M.7",
+      "tele_station_type": "waterlevel",
+      "ground_level": 100.42,
+      "qmax": 2300,
+      "min_bank": 112,
+      "river_name": "ลำน้ำมูลส่วนที่ 3/5",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "วารินชำราบ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "วารินชำราบ",
+        "en": ""
+      },
+      "province_code": "34",
+      "province_name": {
+        "th": "อุบลราชธานี",
+        "en": ""
+      },
+      "geo_code": "341501",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5798,
+      "tele_station_name": {
+        "th": "บ้านป่าก่อ",
+        "en": ""
+      },
+      "tele_station_lat": 15.50299,
+      "tele_station_long": 104.595444,
+      "tele_station_oldcode": "G07003-M.179A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 109.44,
+      "qmax": 400,
+      "min_bank": 119.8,
+      "river_name": "ลำเซบายส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เขื่องใน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองเหล่า",
+        "en": ""
+      },
+      "province_code": "34",
+      "province_name": {
+        "th": "อุบลราชธานี",
+        "en": ""
+      },
+      "geo_code": "340418",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3749,
+      "tele_station_name": {
+        "th": "บ้านคำสำราญ",
+        "en": ""
+      },
+      "tele_station_lat": 14.79088,
+      "tele_station_long": 105.102768,
+      "tele_station_oldcode": "G07003-M.170",
+      "tele_station_type": "waterlevel",
+      "ground_level": 122.85,
+      "qmax": 568,
+      "min_bank": 132.3,
+      "river_name": "ลำโดมใหญ่",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เดชอุดม",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กลาง",
+        "en": ""
+      },
+      "province_code": "34",
+      "province_name": {
+        "th": "อุบลราชธานี",
+        "en": ""
+      },
+      "geo_code": "340711",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 5,
+      "basin_code": 5,
+      "basin_name": {
+        "th": "ลุ่มน้ำมูล",
+        "en": "Mun River Basin"
+      }
+    }
+  }
+]
