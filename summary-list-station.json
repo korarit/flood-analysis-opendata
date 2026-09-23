@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "mun",
+    "basin_name_th": "ลุ่มน้ำมูล",
+    "basin_code": "05",
+    "rain_total": 218,
+    "rain_hii_mou": 95,
+    "rain_dwr": 65,
+    "wl_total": 120,
+    "wl_hii_mou": 19,
+    "wl_dwr": 48,
+    "wl_rid": 40
+  }
+]
