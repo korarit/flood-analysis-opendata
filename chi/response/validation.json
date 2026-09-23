@@ -1,0 +1,9 @@
+{
+  "basin": "chi",
+  "total_station_pairs": 80,
+  "observed_pairs_count": 27,
+  "estimated_pairs_count": 53,
+  "total_flood_events_detected": 24862,
+  "detection_rule": "continuous_rise_4h_with_plateau_midpoint",
+  "timestamp": "2026-09-06T20:02:56.696081"
+}

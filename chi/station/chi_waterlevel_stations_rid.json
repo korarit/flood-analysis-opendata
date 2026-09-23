@@ -1,0 +1,2282 @@
+[
+  {
+    "station": {
+      "id": 3914,
+      "tele_station_name": {
+        "th": "บ้านวังหิน",
+        "en": ""
+      },
+      "tele_station_lat": 16.34078,
+      "tele_station_long": 103.577011,
+      "tele_station_oldcode": "G07003-E.87",
+      "tele_station_type": "waterlevel",
+      "ground_level": 129.49,
+      "qmax": 280,
+      "min_bank": 137.4,
+      "river_name": "ลำปาวตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "กมลาไสย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กมลาไสย",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "460301",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4006,
+      "tele_station_name": {
+        "th": "บ้านโพน",
+        "en": ""
+      },
+      "tele_station_lat": 16.86068,
+      "tele_station_long": 103.594856,
+      "tele_station_oldcode": "G07003-E.76A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 163.88,
+      "qmax": 136,
+      "min_bank": 172.5,
+      "river_name": "ลำปาวตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "คำม่วง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โพน",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "461002",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4016,
+      "tele_station_name": {
+        "th": "บ้านท่าไฮ",
+        "en": ""
+      },
+      "tele_station_lat": 16.95174,
+      "tele_station_long": 103.168053,
+      "tele_station_oldcode": "G07003-E.65",
+      "tele_station_type": "waterlevel",
+      "ground_level": 159.94,
+      "qmax": 210,
+      "min_bank": 166,
+      "river_name": "ลำปาวตอนบน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ท่าคันโท",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กุงเก่า",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "461102",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3960,
+      "tele_station_name": {
+        "th": "บ้านหนองม่วง",
+        "en": ""
+      },
+      "tele_station_lat": 16.581209,
+      "tele_station_long": 103.437111,
+      "tele_station_oldcode": "G07003-E.75",
+      "tele_station_type": "waterlevel",
+      "ground_level": 137.31,
+      "qmax": 350,
+      "min_bank": 144.5,
+      "river_name": "ลำปาวตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ยางตลาด",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "นาเชือก",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "460710",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3990,
+      "tele_station_name": {
+        "th": "เนินยางใต้",
+        "en": ""
+      },
+      "tele_station_lat": 16.772221,
+      "tele_station_long": 103.648331,
+      "tele_station_oldcode": "G07003-E.90",
+      "tele_station_type": "waterlevel",
+      "ground_level": 160.37,
+      "qmax": 110,
+      "min_bank": 167.1,
+      "river_name": "ลำปาวตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "สหัสขันธ์",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โนนศิลา",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "460904",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4017,
+      "tele_station_name": {
+        "th": "บ้านท่างาม",
+        "en": ""
+      },
+      "tele_station_lat": 16.952499,
+      "tele_station_long": 103.496674,
+      "tele_station_oldcode": "G07003-E.67",
+      "tele_station_type": "waterlevel",
+      "ground_level": 159.35,
+      "qmax": 420,
+      "min_bank": 171.37,
+      "river_name": "ลำพันชาด",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "สามชัย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สำราญ",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "461501",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3999,
+      "tele_station_name": {
+        "th": "บ้านดงสวรรค์",
+        "en": ""
+      },
+      "tele_station_lat": 16.83222,
+      "tele_station_long": 103.369171,
+      "tele_station_oldcode": "G07003-E.88",
+      "tele_station_type": "waterlevel",
+      "ground_level": 163.13,
+      "qmax": 90,
+      "min_bank": 167.56,
+      "river_name": "ลำปาวตอนบน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "หนองกุงศรี",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองหิน",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "461209",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3967,
+      "tele_station_name": {
+        "th": "บ้านหนองริวหนัง",
+        "en": ""
+      },
+      "tele_station_lat": 16.665831,
+      "tele_station_long": 103.308609,
+      "tele_station_oldcode": "G07003-E.89",
+      "tele_station_type": "waterlevel",
+      "ground_level": 171.943,
+      "qmax": 60,
+      "min_bank": 176.1,
+      "river_name": "ลำปาวตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "หนองกุงศรี",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ลำหนองแสน",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "461208",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 8550,
+      "tele_station_name": {
+        "th": "บ้านสมสนุก",
+        "en": ""
+      },
+      "tele_station_lat": 16.68523,
+      "tele_station_long": 104.08213,
+      "tele_station_oldcode": "G07003-E.57A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 170.11,
+      "qmax": 290,
+      "min_bank": 178.4,
+      "river_name": "ลำน้ำยัง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เขาวง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กุดสิมคุ้มใหม่",
+        "en": ""
+      },
+      "province_code": "46",
+      "province_name": {
+        "th": "กาฬสินธุ์",
+        "en": ""
+      },
+      "geo_code": "460606",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3894,
+      "tele_station_name": {
+        "th": "บ้านท่านางเลื่อน",
+        "en": ""
+      },
+      "tele_station_lat": 16.096939,
+      "tele_station_long": 102.570023,
+      "tele_station_oldcode": "G07003-E.9",
+      "tele_station_type": "waterlevel",
+      "ground_level": 149.29,
+      "qmax": 480,
+      "min_bank": 162.1,
+      "river_name": "ลำน้ำชีส่วนที่ 3",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ชนบท",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ชนบท",
+        "en": ""
+      },
+      "province_code": "40",
+      "province_name": {
+        "th": "ขอนแก่น",
+        "en": ""
+      },
+      "geo_code": "401801",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 8652,
+      "tele_station_name": {
+        "th": "บ้านจาน ",
+        "en": ""
+      },
+      "tele_station_lat": 16.49725,
+      "tele_station_long": 103.050346,
+      "tele_station_oldcode": "G07003-E.105",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 50,
+      "min_bank": 156,
+      "river_name": "ห้วยสายบาตร",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ซำสูง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "คูคำ",
+        "en": ""
+      },
+      "province_code": "40",
+      "province_name": {
+        "th": "ขอนแก่น",
+        "en": ""
+      },
+      "geo_code": "402104",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3966,
+      "tele_station_name": {
+        "th": "บ้านท่าเม่า",
+        "en": ""
+      },
+      "tele_station_lat": 16.65448,
+      "tele_station_long": 102.823486,
+      "tele_station_oldcode": "G07003-E.22B",
+      "tele_station_type": "waterlevel",
+      "ground_level": 150.589,
+      "qmax": 430,
+      "min_bank": 160.9,
+      "river_name": "ลำน้ำพองตอนล่างส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "น้ำพอง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ม่วงหวาน",
+        "en": ""
+      },
+      "province_code": "40",
+      "province_name": {
+        "th": "ขอนแก่น",
+        "en": ""
+      },
+      "geo_code": "400706",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3916,
+      "tele_station_name": {
+        "th": "บ้านกุดกว้าง",
+        "en": ""
+      },
+      "tele_station_lat": 16.356001,
+      "tele_station_long": 102.804291,
+      "tele_station_oldcode": "G07003-E.16A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 141.914,
+      "qmax": 650,
+      "min_bank": 152.3,
+      "river_name": "ลำน้ำชีส่วนที่ 3",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองขอนแก่น",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ท่าพระ",
+        "en": ""
+      },
+      "province_code": "40",
+      "province_name": {
+        "th": "ขอนแก่น",
+        "en": ""
+      },
+      "geo_code": "400104",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3962,
+      "tele_station_name": {
+        "th": "บ้านโนนหัน",
+        "en": ""
+      },
+      "tele_station_lat": 16.590509,
+      "tele_station_long": 101.983223,
+      "tele_station_oldcode": "G07003-E.85",
+      "tele_station_type": "waterlevel",
+      "ground_level": 225.102,
+      "qmax": 70,
+      "min_bank": 230,
+      "river_name": "ลำน้ำเชิญส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "คอนสาร",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ดงบัง",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "361306",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3851,
+      "tele_station_name": {
+        "th": "บ้านโนนเชือก",
+        "en": ""
+      },
+      "tele_station_lat": 15.7325,
+      "tele_station_long": 101.830048,
+      "tele_station_oldcode": "G07003-E.5",
+      "tele_station_type": "waterlevel",
+      "ground_level": 184,
+      "qmax": 570,
+      "min_bank": 196.5,
+      "river_name": "ลำน้ำชีส่วนที่ 2/1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "จัตุรัส",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ส้มป่อย",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "360613",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3870,
+      "tele_station_name": {
+        "th": "บ้านหนองอ้อ",
+        "en": ""
+      },
+      "tele_station_lat": 15.9074,
+      "tele_station_long": 101.708229,
+      "tele_station_oldcode": "G07003-E.32A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 197.31,
+      "qmax": 500,
+      "min_bank": 210,
+      "river_name": "ลำน้ำชีตอนบนส่วนที่ 2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "บ้านเขว้า",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ชีบน",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "360204",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268819,
+      "tele_station_name": {
+        "th": "บ้านหนองม่วง",
+        "en": ""
+      },
+      "tele_station_lat": 15.784,
+      "tele_station_long": 101.719002,
+      "tele_station_oldcode": "G07003-E.100",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 60,
+      "min_bank": 205,
+      "river_name": "ลำกระจวน",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "หนองบัวระเหว",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โคกสะอาด",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "360804",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3947,
+      "tele_station_name": {
+        "th": "บ้านยาง",
+        "en": ""
+      },
+      "tele_station_lat": 16.31431,
+      "tele_station_long": 101.875816,
+      "tele_station_oldcode": "G07003-E.93",
+      "tele_station_type": "waterlevel",
+      "ground_level": 225.935,
+      "qmax": 150,
+      "min_bank": 231.1,
+      "river_name": "น้ำพรหม",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เกษตรสมบูรณ์",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "โนนทอง",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "360412",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3839,
+      "tele_station_name": {
+        "th": "บ้านค่าย",
+        "en": ""
+      },
+      "tele_station_lat": 15.68176,
+      "tele_station_long": 102.009552,
+      "tele_station_oldcode": "G07003-E.23",
+      "tele_station_type": "waterlevel",
+      "ground_level": 177.51,
+      "qmax": 270,
+      "min_bank": 185.2,
+      "river_name": "ลำน้ำชีส่วนที่ 2/2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เนินสง่า",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "กะฮาด",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "361503",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3878,
+      "tele_station_name": {
+        "th": "บ้านตาดโตน",
+        "en": ""
+      },
+      "tele_station_lat": 15.95536,
+      "tele_station_long": 102.03363,
+      "tele_station_oldcode": "G07003-E.6C",
+      "tele_station_type": "waterlevel",
+      "ground_level": 192.17,
+      "qmax": 50,
+      "min_bank": 198.2,
+      "river_name": "ลำน้ำชีส่วนที่ 2/2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองชัยภูมิ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "นาฝาย",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "360104",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3850,
+      "tele_station_name": {
+        "th": "บ้านแก่งโก",
+        "en": ""
+      },
+      "tele_station_lat": 15.75292,
+      "tele_station_long": 102.252609,
+      "tele_station_oldcode": "G07003-E.21",
+      "tele_station_type": "waterlevel",
+      "ground_level": 165.411,
+      "qmax": 450,
+      "min_bank": 174.5,
+      "river_name": "ลำน้ำชีส่วนที่ 2/2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองชัยภูมิ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ลาดใหญ่",
+        "en": ""
+      },
+      "province_code": "36",
+      "province_name": {
+        "th": "ชัยภูมิ",
+        "en": ""
+      },
+      "geo_code": "360111",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3905,
+      "tele_station_name": {
+        "th": "บ้านดินดำ",
+        "en": ""
+      },
+      "tele_station_lat": 16.231939,
+      "tele_station_long": 103.271019,
+      "tele_station_oldcode": "G07003-E.8A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 135.734,
+      "qmax": 730,
+      "min_bank": 142.7,
+      "river_name": "ลำน้ำชีส่วนที่ 4/1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองมหาสารคาม",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เกิ้ง",
+        "en": ""
+      },
+      "province_code": "44",
+      "province_name": {
+        "th": "มหาสารคาม",
+        "en": ""
+      },
+      "geo_code": "440107",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3917,
+      "tele_station_name": {
+        "th": "บ้านดอนขนวน",
+        "en": ""
+      },
+      "tele_station_lat": 16.36607,
+      "tele_station_long": 102.949753,
+      "tele_station_oldcode": "G07003-E.91",
+      "tele_station_type": "waterlevel",
+      "ground_level": 137.75,
+      "qmax": 820,
+      "min_bank": 149.7,
+      "river_name": "ลำน้ำชีส่วนที่ 4/1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "โกสุมพิสัย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองบัว",
+        "en": ""
+      },
+      "province_code": "44",
+      "province_name": {
+        "th": "มหาสารคาม",
+        "en": ""
+      },
+      "geo_code": "440308",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3824,
+      "tele_station_name": {
+        "th": "บ้านฟ้าหยาด",
+        "en": ""
+      },
+      "tele_station_lat": 15.52481,
+      "tele_station_long": 104.249657,
+      "tele_station_oldcode": "G07003-E.20A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 109.78,
+      "qmax": 1100,
+      "min_bank": 122,
+      "river_name": "ลำน้ำชีตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "มหาชนะชัย",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ฟ้าหยาด",
+        "en": ""
+      },
+      "province_code": "35",
+      "province_name": {
+        "th": "ยโสธร",
+        "en": ""
+      },
+      "geo_code": "350601",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7161,
+      "tele_station_name": {
+        "th": "บ้านดอนยาง",
+        "en": ""
+      },
+      "tele_station_lat": 15.85685,
+      "tele_station_long": 104.026749,
+      "tele_station_oldcode": "G07003-E.102",
+      "tele_station_type": "waterlevel",
+      "ground_level": 119.369,
+      "qmax": null,
+      "min_bank": 128.15,
+      "river_name": "ลำน้ำยัง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองยโสธร",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ค้อเหนือ",
+        "en": ""
+      },
+      "province_code": "35",
+      "province_name": {
+        "th": "ยโสธร",
+        "en": ""
+      },
+      "geo_code": "350105",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3617,
+      "tele_station_name": {
+        "th": "ประปายโสธร",
+        "en": ""
+      },
+      "tele_station_lat": 15.79962,
+      "tele_station_long": 104.134857,
+      "tele_station_oldcode": "G07003-E.2A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 114.242,
+      "qmax": 1080,
+      "min_bank": 126,
+      "river_name": "ลำน้ำชีตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองยโสธร",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ในเมือง",
+        "en": ""
+      },
+      "province_code": "35",
+      "province_name": {
+        "th": "ยโสธร",
+        "en": ""
+      },
+      "geo_code": "350101",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3899,
+      "tele_station_name": {
+        "th": "บ้านม่วงลาด",
+        "en": ""
+      },
+      "tele_station_lat": 16.20825,
+      "tele_station_long": 103.527641,
+      "tele_station_oldcode": "G07003-E.66A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 126.8,
+      "qmax": 710,
+      "min_bank": 138.5,
+      "river_name": "ลำน้ำชีส่วนที่ 4/1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "จังหาร",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ม่วงลาด",
+        "en": ""
+      },
+      "province_code": "45",
+      "province_name": {
+        "th": "ร้อยเอ็ด",
+        "en": ""
+      },
+      "geo_code": "451703",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3887,
+      "tele_station_name": {
+        "th": "บ้านท่าสะแบง",
+        "en": ""
+      },
+      "tele_station_lat": 16.034149,
+      "tele_station_long": 103.906937,
+      "tele_station_oldcode": "G07003-E.18",
+      "tele_station_type": "waterlevel",
+      "ground_level": 120.04,
+      "qmax": 1050,
+      "min_bank": 132,
+      "river_name": "ลำน้ำชีส่วนที่ 4/2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ทุ่งเขาหลวง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "มะบ้า",
+        "en": ""
+      },
+      "province_code": "45",
+      "province_name": {
+        "th": "ร้อยเอ็ด",
+        "en": ""
+      },
+      "geo_code": "452004",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 8551,
+      "tele_station_name": {
+        "th": "บ้านธวัชดินแดง",
+        "en": ""
+      },
+      "tele_station_lat": 16.115801,
+      "tele_station_long": 103.846603,
+      "tele_station_oldcode": "G07003-E.95A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 122.04,
+      "qmax": 950,
+      "min_bank": 132.1,
+      "river_name": "ลำน้ำชีส่วนที่ 4/2",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ธวัชบุรี",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ธงธานี",
+        "en": ""
+      },
+      "province_code": "45",
+      "province_name": {
+        "th": "ร้อยเอ็ด",
+        "en": ""
+      },
+      "geo_code": "450502",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5893,
+      "tele_station_name": {
+        "th": "บ้านดอนขยอม",
+        "en": ""
+      },
+      "tele_station_lat": 15.73111,
+      "tele_station_long": 104.130981,
+      "tele_station_oldcode": "G07003-E.97",
+      "tele_station_type": "waterlevel",
+      "ground_level": 111.01,
+      "qmax": 1200,
+      "min_bank": 125.5,
+      "river_name": "ลำน้ำชีตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "พนมไพร",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "แสนสุข",
+        "en": ""
+      },
+      "province_code": "45",
+      "province_name": {
+        "th": "ร้อยเอ็ด",
+        "en": ""
+      },
+      "geo_code": "450602",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3909,
+      "tele_station_name": {
+        "th": "บ้านกุดก่วง",
+        "en": ""
+      },
+      "tele_station_lat": 16.288441,
+      "tele_station_long": 104.00489,
+      "tele_station_oldcode": "G07003-E.70",
+      "tele_station_type": "waterlevel",
+      "ground_level": 129.558,
+      "qmax": 500,
+      "min_bank": 140.1,
+      "river_name": "ลำน้ำยัง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "โพนทอง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "วังสามัคคี",
+        "en": ""
+      },
+      "province_code": "45",
+      "province_name": {
+        "th": "ร้อยเอ็ด",
+        "en": ""
+      },
+      "geo_code": "450713",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3930,
+      "tele_station_name": {
+        "th": "บ้านแก่งยาว",
+        "en": ""
+      },
+      "tele_station_lat": 16.442511,
+      "tele_station_long": 104.030724,
+      "tele_station_oldcode": "G07003-E.54",
+      "tele_station_type": "waterlevel",
+      "ground_level": 138.3,
+      "qmax": 500,
+      "min_bank": 147.3,
+      "river_name": "ลำน้ำยัง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "โพนทอง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองใหญ่",
+        "en": ""
+      },
+      "province_code": "45",
+      "province_name": {
+        "th": "ร้อยเอ็ด",
+        "en": ""
+      },
+      "geo_code": "450705",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268756,
+      "tele_station_name": {
+        "th": "บ้านวังสามหาบ",
+        "en": ""
+      },
+      "tele_station_lat": 17.30999,
+      "tele_station_long": 102.10804,
+      "tele_station_oldcode": "G07003-E.64B",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 50,
+      "min_bank": 266.5,
+      "river_name": "ลำพะเนียง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "นาวัง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เทพคีรี",
+        "en": ""
+      },
+      "province_code": "39",
+      "province_name": {
+        "th": "หนองบัวลำภู",
+        "en": ""
+      },
+      "geo_code": "390605",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 4043,
+      "tele_station_name": {
+        "th": "บ้านข้องโป้",
+        "en": ""
+      },
+      "tele_station_lat": 17.082161,
+      "tele_station_long": 102.450798,
+      "tele_station_oldcode": "G07003-E.68A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 193.41,
+      "qmax": 130,
+      "min_bank": 199.9,
+      "river_name": "ลำพะเนียง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "บ้านขาม",
+        "en": ""
+      },
+      "province_code": "39",
+      "province_name": {
+        "th": "หนองบัวลำภู",
+        "en": ""
+      },
+      "geo_code": "390106",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 268757,
+      "tele_station_name": {
+        "th": "บ้านวังหมื่น",
+        "en": ""
+      },
+      "tele_station_lat": 17.183001,
+      "tele_station_long": 102.431999,
+      "tele_station_oldcode": "G07003-E.109",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 115,
+      "min_bank": 209.5,
+      "river_name": "ลำพะเนียง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองบัว",
+        "en": ""
+      },
+      "province_code": "39",
+      "province_name": {
+        "th": "หนองบัวลำภู",
+        "en": ""
+      },
+      "geo_code": "390101",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5795,
+      "tele_station_name": {
+        "th": "บ้านเขื่องใน",
+        "en": ""
+      },
+      "tele_station_lat": 15.30323,
+      "tele_station_long": 104.50032,
+      "tele_station_oldcode": "G07003-E.98",
+      "tele_station_type": "waterlevel",
+      "ground_level": 106.09,
+      "qmax": 2150,
+      "min_bank": 118.8,
+      "river_name": "ลำน้ำชีตอนล่าง",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เขื่องใน",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สร้างถ่อ",
+        "en": ""
+      },
+      "province_code": "34",
+      "province_name": {
+        "th": "อุบลราชธานี",
+        "en": ""
+      },
+      "geo_code": "340402",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 5849,
+      "tele_station_name": {
+        "th": "บ้านผานกเค้า",
+        "en": ""
+      },
+      "tele_station_lat": 16.847639,
+      "tele_station_long": 101.94426,
+      "tele_station_oldcode": "G07003-E.29A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 227.926,
+      "qmax": 240,
+      "min_bank": 238.5,
+      "river_name": "ลำน้ำพองตอนบนส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ภูกระดึง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ผานกเค้า",
+        "en": ""
+      },
+      "province_code": "42",
+      "province_name": {
+        "th": "เลย",
+        "en": ""
+      },
+      "geo_code": "421005",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 10074,
+      "tele_station_name": {
+        "th": "บ้านอีเลิศ",
+        "en": ""
+      },
+      "tele_station_lat": 16.936331,
+      "tele_station_long": 101.83831,
+      "tele_station_oldcode": "G07003-E.79A",
+      "tele_station_type": "waterlevel",
+      "ground_level": null,
+      "qmax": 149,
+      "min_bank": 253.8,
+      "river_name": "ลำน้ำพองตอนบนส่วนที่ 1",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "4",
+      "area_name": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ภูกระดึง",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ศรีฐาน",
+        "en": ""
+      },
+      "province_code": "42",
+      "province_name": {
+        "th": "เลย",
+        "en": ""
+      },
+      "geo_code": "421001",
+      "rid_code": "2",
+      "tmd_code": "4"
+    },
+    "basin": {
+      "id": 4,
+      "basin_code": 4,
+      "basin_name": {
+        "th": "ลุ่มน้ำชี",
+        "en": "Chi River Basin"
+      }
+    }
+  }
+]

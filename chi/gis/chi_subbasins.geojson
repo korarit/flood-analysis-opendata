@@ -1,0 +1,169 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "subbasin_id": "chi_01_upper",
+        "subbasin_name_th": "ลุ่มน้ำชีตอนบน (หนองบัวแดง/เกษตรสมบูรณ์/ชัยภูมิ)",
+        "basin_slug": "chi",
+        "order": 1,
+        "downstream_subbasin": "chi_02_mid_north",
+        "min_lat": 17.0305,
+        "max_lat": 17.657,
+        "min_lon": 101.209,
+        "max_lon": 104.811
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.81099999999999,
+              17.0005
+            ],
+            [
+              104.81099999999999,
+              17.687
+            ],
+            [
+              101.209,
+              17.687
+            ],
+            [
+              101.209,
+              17.0005
+            ],
+            [
+              104.81099999999999,
+              17.0005
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "subbasin_id": "chi_02_mid_north",
+        "subbasin_name_th": "ลุ่มน้ำชีตอนกลางเหนือ (โคกโพธิ์ไชย/มัญจาคีรี/ขอนแก่น)",
+        "basin_slug": "chi",
+        "order": 2,
+        "downstream_subbasin": "chi_03_central",
+        "min_lat": 16.404,
+        "max_lat": 17.0305,
+        "min_lon": 101.209,
+        "max_lon": 104.811
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.81099999999999,
+              16.374
+            ],
+            [
+              104.81099999999999,
+              17.0605
+            ],
+            [
+              101.209,
+              17.0605
+            ],
+            [
+              101.209,
+              16.374
+            ],
+            [
+              104.81099999999999,
+              16.374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "subbasin_id": "chi_03_central",
+        "subbasin_name_th": "ลุ่มน้ำชีตอนกลาง (โกสุมพิสัย/มหาสารคาม/ร้อยเอ็ด)",
+        "basin_slug": "chi",
+        "order": 3,
+        "downstream_subbasin": "chi_04_lower",
+        "min_lat": 15.7775,
+        "max_lat": 16.404,
+        "min_lon": 101.209,
+        "max_lon": 104.811
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.81099999999999,
+              15.7475
+            ],
+            [
+              104.81099999999999,
+              16.434
+            ],
+            [
+              101.209,
+              16.434
+            ],
+            [
+              101.209,
+              15.7475
+            ],
+            [
+              104.81099999999999,
+              15.7475
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "subbasin_id": "chi_04_lower",
+        "subbasin_name_th": "ลุ่มน้ำชีตอนล่าง (ยโสธร/มหาชนะชัย/กันทรารมย์/บรรจบแม่น้ำมูล)",
+        "basin_slug": "chi",
+        "order": 4,
+        "downstream_subbasin": null,
+        "min_lat": 15.151,
+        "max_lat": 15.7775,
+        "min_lon": 101.209,
+        "max_lon": 104.811
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              104.81099999999999,
+              15.121
+            ],
+            [
+              104.81099999999999,
+              15.8075
+            ],
+            [
+              101.209,
+              15.8075
+            ],
+            [
+              101.209,
+              15.121
+            ],
+            [
+              104.81099999999999,
+              15.121
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
