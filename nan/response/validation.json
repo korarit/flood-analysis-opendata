@@ -1,0 +1,9 @@
+{
+  "basin": "nan",
+  "total_station_pairs": 152,
+  "observed_pairs_count": 28,
+  "estimated_pairs_count": 124,
+  "total_flood_events_detected": 39796,
+  "detection_rule": "continuous_rise_4h_with_plateau_midpoint",
+  "timestamp": "2026-08-31T20:36:55.020551"
+}
