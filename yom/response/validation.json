@@ -1,0 +1,9 @@
+{
+  "basin": "yom",
+  "total_station_pairs": 112,
+  "observed_pairs_count": 27,
+  "estimated_pairs_count": 85,
+  "total_flood_events_detected": 31939,
+  "detection_rule": "continuous_rise_4h_with_plateau_midpoint",
+  "timestamp": "2026-08-31T20:07:11.338205"
+}

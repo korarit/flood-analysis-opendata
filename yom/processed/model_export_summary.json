@@ -1,0 +1,12 @@
+{
+  "basin": "yom",
+  "total_database_relations": 365,
+  "gauge_to_gauge_relations": 112,
+  "rainfall_to_gauge_relations": 253,
+  "files_exported": [
+    "/content/drive/MyDrive/krtza1/flood_dataset/yom/processed/station_relations_db.json",
+    "/content/drive/MyDrive/krtza1/flood_dataset/yom/processed/relations_frontend.json",
+    "/content/drive/MyDrive/krtza1/flood_dataset/yom/processed/flow_paths.geojson",
+    "/content/drive/MyDrive/krtza1/flood_dataset/yom/processed/river_network.geojson"
+  ]
+}
