@@ -1,0 +1,9 @@
+{
+  "basin": "ping",
+  "total_station_pairs": 150,
+  "observed_pairs_count": 6,
+  "estimated_pairs_count": 144,
+  "total_flood_events_detected": 26855,
+  "detection_rule": "continuous_rise_4h_with_plateau_midpoint",
+  "timestamp": "2026-08-31T21:06:40.352273"
+}
