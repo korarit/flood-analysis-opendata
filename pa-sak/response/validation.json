@@ -1,0 +1,9 @@
+{
+  "basin": "pa-sak",
+  "total_station_pairs": 34,
+  "observed_pairs_count": 13,
+  "estimated_pairs_count": 21,
+  "total_flood_events_detected": 20748,
+  "detection_rule": "continuous_rise_4h_with_plateau_midpoint",
+  "timestamp": "2026-09-07T17:59:49.225919"
+}
