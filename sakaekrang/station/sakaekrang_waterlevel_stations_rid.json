@@ -1,0 +1,382 @@
+[
+  {
+    "station": {
+      "id": 3853,
+      "tele_station_name": {
+        "th": "บ้านศาลเจ้าไก่ต่อ",
+        "en": ""
+      },
+      "tele_station_lat": 15.78585,
+      "tele_station_long": 99.678329,
+      "tele_station_oldcode": "G07003-Ct.4",
+      "tele_station_type": "waterlevel",
+      "ground_level": 65.73,
+      "qmax": 197.0,
+      "min_bank": 71.67,
+      "river_name": "แม่น้ำสะแกกรังตอนล่างส่วนที่ 1",
+      "sponsor_by": null,
+      "bank_level_msl": 71.67,
+      "warning_level_msl": 71.17,
+      "critical_level_msl": 71.67,
+      "bank_level_relative_m": 71.66999816894531
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ลาดยาว",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ศาลเจ้าไก่ต่อ",
+        "en": ""
+      },
+      "province_code": "60",
+      "province_name": {
+        "th": "นครสวรรค์",
+        "en": ""
+      },
+      "geo_code": "601116",
+      "rid_code": "3",
+      "tmd_code": "1"
+    },
+    "basin": {
+      "id": 11,
+      "basin_code": 11,
+      "basin_name": {
+        "th": "ลุ่มน้ำสะแกกรัง",
+        "en": "Sakae Krang River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3872,
+      "tele_station_name": {
+        "th": "บ้านปางมะค่า",
+        "en": ""
+      },
+      "tele_station_lat": 15.92832,
+      "tele_station_long": 99.502373,
+      "tele_station_oldcode": "G07003-Ct.5A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 102.21,
+      "qmax": 232.0,
+      "min_bank": 107.22,
+      "river_name": "น้ำแม่วง",
+      "sponsor_by": null,
+      "bank_level_msl": 107.22,
+      "warning_level_msl": 106.72,
+      "critical_level_msl": 107.22,
+      "bank_level_relative_m": 107.22000122070312
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "แม่วงก์",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "เขาชนกัน",
+        "en": ""
+      },
+      "province_code": "60",
+      "province_name": {
+        "th": "นครสวรรค์",
+        "en": ""
+      },
+      "geo_code": "601305",
+      "rid_code": "3",
+      "tmd_code": "1"
+    },
+    "basin": {
+      "id": 11,
+      "basin_code": 11,
+      "basin_name": {
+        "th": "ลุ่มน้ำสะแกกรัง",
+        "en": "Sakae Krang River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 7986,
+      "tele_station_name": {
+        "th": "ท้ายเขื่อนวังร่มเกล้า",
+        "en": ""
+      },
+      "tele_station_lat": 15.50282,
+      "tele_station_long": 99.967072,
+      "tele_station_oldcode": "G07003-Ct.25",
+      "tele_station_type": "waterlevel",
+      "ground_level": 19.46,
+      "qmax": 630,
+      "min_bank": 30.2,
+      "river_name": "แม่น้ำสะแกกรังตอนล่างส่วนที่ 3",
+      "sponsor_by": null
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "โกรกพระ",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หาดสูง",
+        "en": ""
+      },
+      "province_code": "60",
+      "province_name": {
+        "th": "นครสวรรค์",
+        "en": ""
+      },
+      "geo_code": "600209",
+      "rid_code": "3",
+      "tmd_code": "1"
+    },
+    "basin": {
+      "id": 11,
+      "basin_code": 11,
+      "basin_name": {
+        "th": "ลุ่มน้ำสะแกกรัง",
+        "en": "Sakae Krang River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3823,
+      "tele_station_name": {
+        "th": "บ้านบุ่งอ้ายเจี้ยม",
+        "en": ""
+      },
+      "tele_station_lat": 15.51829,
+      "tele_station_long": 99.483528,
+      "tele_station_oldcode": "G07003-Ct.9",
+      "tele_station_type": "waterlevel",
+      "ground_level": 122.58,
+      "qmax": 280.0,
+      "min_bank": 127.92,
+      "river_name": "ห้วยทับเสลา",
+      "sponsor_by": null,
+      "bank_level_msl": 127.92,
+      "warning_level_msl": 127.42,
+      "critical_level_msl": 127.92,
+      "bank_level_relative_m": 127.91999816894531
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "ลานสัก",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "ระบำ",
+        "en": ""
+      },
+      "province_code": "61",
+      "province_name": {
+        "th": "อุทัยธานี",
+        "en": ""
+      },
+      "geo_code": "610704",
+      "rid_code": "3",
+      "tmd_code": "1"
+    },
+    "basin": {
+      "id": 11,
+      "basin_code": 11,
+      "basin_name": {
+        "th": "ลุ่มน้ำสะแกกรัง",
+        "en": "Sakae Krang River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3819,
+      "tele_station_name": {
+        "th": "บ้านดอนใหญ่",
+        "en": ""
+      },
+      "tele_station_lat": 15.45274,
+      "tele_station_long": 100.031891,
+      "tele_station_oldcode": "G07003-Ct.19",
+      "tele_station_type": "waterlevel",
+      "ground_level": 16.78,
+      "qmax": 637.0,
+      "min_bank": 24.52,
+      "river_name": "แม่น้ำสะแกกรังตอนล่างส่วนที่ 3",
+      "sponsor_by": null,
+      "bank_level_msl": 24.52,
+      "warning_level_msl": 24.02,
+      "critical_level_msl": 24.52,
+      "bank_level_relative_m": 24.520000457763672
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองอุทัยธานี",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "หนองไผ่แบน",
+        "en": ""
+      },
+      "province_code": "61",
+      "province_name": {
+        "th": "อุทัยธานี",
+        "en": ""
+      },
+      "geo_code": "610111",
+      "rid_code": "3",
+      "tmd_code": "1"
+    },
+    "basin": {
+      "id": 11,
+      "basin_code": 11,
+      "basin_name": {
+        "th": "ลุ่มน้ำสะแกกรัง",
+        "en": "Sakae Krang River Basin"
+      }
+    }
+  },
+  {
+    "station": {
+      "id": 3812,
+      "tele_station_name": {
+        "th": "บ้านหาดทนง",
+        "en": ""
+      },
+      "tele_station_lat": 15.41085,
+      "tele_station_long": 100.057068,
+      "tele_station_oldcode": "G07003-Ct.2A",
+      "tele_station_type": "waterlevel",
+      "ground_level": 11.3,
+      "qmax": 616.0,
+      "min_bank": 21.34,
+      "river_name": "แม่น้ำสะแกกรังตอนล่างส่วนที่ 3",
+      "sponsor_by": null,
+      "bank_level_msl": 21.34,
+      "warning_level_msl": 20.84,
+      "critical_level_msl": 21.34,
+      "bank_level_relative_m": 21.34000015258789
+    },
+    "agency": {
+      "agency_name": {
+        "th": "กรมชลประทาน",
+        "en": "Royal Irrigation Department"
+      },
+      "agency_shortname": {
+        "th": "ชป.",
+        "en": "RID"
+      },
+      "agency_code": "G07003"
+    },
+    "geocode": {
+      "area_code": "3",
+      "area_name": {
+        "th": "ภาคเหนือ",
+        "en": ""
+      },
+      "amphoe_name": {
+        "th": "เมืองอุทัยธานี",
+        "en": ""
+      },
+      "tumbon_name": {
+        "th": "สะแกกรัง",
+        "en": ""
+      },
+      "province_code": "61",
+      "province_name": {
+        "th": "อุทัยธานี",
+        "en": ""
+      },
+      "geo_code": "610103",
+      "rid_code": "3",
+      "tmd_code": "1"
+    },
+    "basin": {
+      "id": 11,
+      "basin_code": 11,
+      "basin_name": {
+        "th": "ลุ่มน้ำสะแกกรัง",
+        "en": "Sakae Krang River Basin"
+      }
+    }
+  }
+]
